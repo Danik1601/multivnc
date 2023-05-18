@@ -37,13 +37,13 @@ The roadmap for future developments regarding the project can be found
 
 <p align='center'>
     <a href='https://play.google.com/store/apps/details?id=com.coboltforge.dontmind.multivnc'>
-        <img  height="80"  alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png'/>
+        <img height='80' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png'>
     </a>
     <a href='https://f-droid.org/packages/com.coboltforge.dontmind.multivnc/'>
-        <img height="80" alt="Get it on F-Droid" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png">
+        <img height='80' alt='Get it on F-Droid' src='https://fdroid.gitlab.io/artwork/badge/get-it-on.png'>
     </a>
     <a href='https://flathub.org/apps/net.christianbeier.MultiVNC'>
-        <img height='80' alt='Download on Flathub' src='https://dl.flathub.org/assets/badges/flathub-badge-en.png'/>
+        <img height='80' alt='Download on Flathub' src='https://dl.flathub.org/assets/badges/flathub-badge-en.png'>
     </a>
 </p>
 
